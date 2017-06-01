@@ -1,0 +1,11 @@
+{
+  "name": "navigable-object",
+  "version": "1.0.0",
+  "description": "Get path to your object properties with type checking for typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Álvarez Díez",
+  "license": "MIT"
+}
