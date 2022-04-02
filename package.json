@@ -1,8 +1,12 @@
 {
   "name": "navigable-object",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Get path to your object properties with type checking for typescript",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
   "scripts": {
     "build": "tsc -p .",
     "test": "c8 tape -r ts-node/register/transpile-only ./index.spec.ts"
